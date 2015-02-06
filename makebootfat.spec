@@ -1,6 +1,6 @@
 %define name makebootfat
 %define version 1.4
-%define release %mkrel 6
+%define release 7
 
 Summary: A command line utility able to create bootable USB disks
 Name: %{name}
