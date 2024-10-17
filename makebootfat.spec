@@ -9,7 +9,7 @@ Release: %{release}
 Source0: http://puzzle.dl.sourceforge.net/sourceforge/advancemame/%{name}-%{version}.tar.bz2
 License: GPL
 Group: System/Kernel and hardware 
-Url: http://advancemame.sourceforge.net/boot-download.html
+Url: https://advancemame.sourceforge.net/boot-download.html
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
 
